@@ -18,7 +18,7 @@
 
 ---
 ## 样例使用
-### 各依赖的版本
+### 版本
 - keras-gpu                 2.6.0         
 - matplotlib                3.5.3       
 - numpy                     1.21.5  
@@ -32,4 +32,3 @@
 - example_data.ipynb：使用SIMP方法生成数据并保存；
 - example_model.ipynb：读取数据、训练模型并保存；
 - example_test.ipynb：测试训练后的模型的预测效果。
-
